@@ -2,4 +2,4 @@ Welcome to the repository of Xrams 6200! We recommend you to check out the socia
 
 DISCLAIMER: Every material used for the creation of this media is as it is presented No plagiarism is used neither intended
 
-Registered Seasons: 2026/2027
+Registered commits: 2026/2027
